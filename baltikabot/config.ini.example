@@ -1,0 +1,10 @@
+[BOT]
+token = 
+brain_dir_path = ./brain
+restart_timeout_sec = 9
+send_to_user = true
+skip_updates = true
+
+[CMD]
+start = Бот начал работу
+help = Привет, я могу ...

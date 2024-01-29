@@ -1,0 +1,17 @@
+# Byte-compiled
+__pycache__/
+
+# IDE
+.idea/
+
+# Environments
+venv/
+
+# Configs
+config.ini
+
+# Memories
+bot/brain/*.memory
+
+# Logs
+error.log
